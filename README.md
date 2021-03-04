@@ -1,1 +1,1 @@
-Example project with using RabbitMQ with Kotlin
+Example project using RabbitMQ with Kotlin
